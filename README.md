@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lectrozzz
+- 👋 Hi, I’m Lectroz
 - 👀 I’m interested in Video games and PC hardware.
-- 🌱 I’m currently learning Computer engineering @Chulalongkorn University.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Computer engineer at Faculty of Engineering Chulalongkorn University.
+
 
 <!---
 Lectrozzz/Lectrozzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
