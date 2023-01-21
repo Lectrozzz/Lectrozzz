@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lectrozzz
-- 👀 I’m interested in video games and pc hardware related stuff
+- 👀 I’m interested in Video games and PC hardware.
 - 🌱 I’m currently learning Computer engineering @Chulalongkorn University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
