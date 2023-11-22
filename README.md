@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lectroz
-- 👀 I’m interested in Video games and PC hardware.
+- 👀 I’m interested in video games, PC hardware, web development and UX/UI.
 - 🌱 I’m currently learning Computer engineer at Faculty of Engineering Chulalongkorn University.
 
 
